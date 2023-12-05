@@ -9,6 +9,7 @@ The goal is to create a simple page that displays a list of cards from the Moonp
 
 .React
 .React Router DOM
+.React Testing Library
 .Other dependencies (check package.json)
 
 
@@ -34,6 +35,14 @@ Visit http://localhost:3000 to view the application in your browser.
 .EachCardPage.js: Component for displaying details of a specific card.
 .Card.js: Component for rendering individual cards.
 .Header.js: Component for the header of the application.
+
+
+
+## Run tests with:
+
+npm test
+
+Note: there's room for improvement. Given more time, I aim to enhance and expand the test coverage to ensure robust and comprehensive testing.
 
 
 
